@@ -2,7 +2,8 @@
 
 -Angela Obon Soto (1600359)
 
-Puntuació: 
+Puntuació:
+
   ·25% anàlisis d'atributs
   
   ·25% comparativa de mètodes
