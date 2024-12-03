@@ -2,6 +2,8 @@
 
 -Angela Obon Soto (1600359)
 
+Cas Kaggle: https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data
+
 Puntuació:
 
   ·25% anàlisis d'atributs
